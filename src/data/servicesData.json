@@ -11,7 +11,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/chatdot1.jpg",
+        "url": "/services/chatdot1.jpg",
         "alt": "Ảnh nhiên liệu Biomass"
       },
       {
@@ -24,7 +24,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/chatdot2.jpg",
+        "url": "/services/chatdot2.jpg",
         "alt": "Ảnh vỏ trấu"
       },
       {
@@ -75,7 +75,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/lohoi1.jpg",
+        "url": "/services/lohoi1.jpg",
         "alt": "Ảnh nhiên liệu Biomass"
       },
       {
@@ -88,7 +88,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/lohoi2.jpg",
+        "url": "/services/lohoi2.jpg",
         "alt": "Ảnh nhiên liệu Biomass"
       },
       {
@@ -122,7 +122,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/mattroi1.jpg",
+        "url": "/services/mattroi1.jpg",
         "alt": "Vệ sinh hệ thống năng lượng mặt trời"
       },
       {
@@ -131,7 +131,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/mattroi2.jpg",
+        "url": "/services/mattroi2.jpg",
         "alt": "Vệ sinh hệ thống năng lượng mặt trời"
       },
       {
@@ -177,7 +177,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/channuoi1.png",
+        "url": "/services/channuoi1.png",
         "alt": "Ảnh thức ăn cho heo"
       },
       {
@@ -186,7 +186,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/channuoi2.png",
+        "url": "/services/channuoi2.png",
         "alt": "Ảnh thức ăn cho gia cầm"
       },
       {
@@ -195,7 +195,7 @@
       },
       {
         "type": "image",
-        "url": "/src/assets/services/channuoi3.jpg",
+        "url": "/services/channuoi3.jpg",
         "alt": "Ảnh thức ăn cho thủy sản"
       },
       {

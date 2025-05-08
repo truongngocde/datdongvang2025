@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { fadeIn, textVariant } from "../../ultils/motion";
-import bannerService from "../../assets/services/bannerLinhvuchoatdong.jpg";
+import bannerService from "../../assets/bannerLinhvuchoatdong.jpg";
 import data from "../../data/news.news_posts.json"; // 👈 Lấy từ JSON như NewsPage
 
 export default function NewsDetail() {

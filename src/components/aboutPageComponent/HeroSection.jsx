@@ -41,7 +41,7 @@ const HeroSection = () => {
           >
             Giám đốc: Nguyễn Thị Kim Dung <br /> <br /> Điện thoại: 0909.090.090
             <br /> <br />
-            Email: datdongvang@gmail.com <br /> <br /> 1. Uy tín luôn được đặt
+            Email: info@datdongvang.com <br /> <br /> 1. Uy tín luôn được đặt
             lên hàng đầu. Cung cấp sản phẩm, dịch vụ, hậu mãi… đúng cam kết.{" "}
             <br /> <br /> 2. Sử dụng nguyên vật liệu đầu vào đảm bảo chất lượng,
             nguồn gốc từ những nhà cung cấp uy tín. <br /> <br /> 3. Tự động hóa

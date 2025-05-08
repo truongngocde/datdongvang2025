@@ -55,16 +55,16 @@ const IntroduceSection = () => {
               className="text-gray-600 mb-6"
             >
               <span className="text-xl">
-                Công Ty Đất Đồng Vàng góp phần tạo nên sự thành công, phát triển và
-                tạo nên những dịch vụ chất lượng tốt nhất cho Quý khách hàng.
-                Với phương châm “
-Vững nền móng – Bền niềm tin”, Công ty Đại
-                Dương chúng tôi luôn lắng nghe, tận tình tư vấn, chia sẻ kinh
-                nghiệm làm việc cùng quý khách hàng. <br /> <br /> Đến với chúng tôi, Quý
-                khách hàng sẽ thực sự hài lòng khi nhận được những lời tư vấn
-                tận tình nhất của những chuyên gia, kỹ sư và đội ngũ công nhân
-                thi công lành nghề, không những mang giá trị thẩm mĩ mà còn đảm
-                bảo chất lượng kỹ thuật với giá cả hợp lý nhất.
+                Công Ty Đất Đồng Vàng góp phần tạo nên sự thành công, phát triển
+                và tạo nên những dịch vụ chất lượng tốt nhất cho Quý khách hàng.
+                Với phương châm “ Vững nền móng – Bền niềm tin”, Công ty Đất
+                Đồng Vàng chúng tôi luôn lắng nghe, tận tình tư vấn, chia sẻ
+                kinh nghiệm làm việc cùng quý khách hàng. <br /> <br /> Đến với
+                chúng tôi, Quý khách hàng sẽ thực sự hài lòng khi nhận được
+                những lời tư vấn tận tình nhất của những chuyên gia, kỹ sư và
+                đội ngũ công nhân thi công lành nghề, không những mang giá trị
+                thẩm mĩ mà còn đảm bảo chất lượng kỹ thuật với giá cả hợp lý
+                nhất.
               </span>
             </motion.p>
           </motion.div>

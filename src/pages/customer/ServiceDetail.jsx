@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { motion } from "framer-motion";
 import { fadeIn, textVariant } from "../../ultils/motion";
 import services from "../../data/servicesData.json";
-import bannerService from "../../assets/services/bannerLinhvuchoatdong.jpg";
+import bannerService from "../../assets/bannerLinhvuchoatdong.jpg";
 
 const ServiceDetail = () => {
   const { slug } = useParams();
