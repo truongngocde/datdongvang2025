@@ -39,7 +39,7 @@ const IntroduceSection = () => {
               <span className="text-xl">
                 Trí tuệ, sáng tạo là nền móng vững chắc của Công ty. <br /> Chất lượng
                 sản phẩm và dịch vụ quyết định sự tồn tại của doanh nghiệp. <br />
-                Nguồn nhân lực là nền tảng để phát triển, Công ty Đại Dương chú
+                Nguồn nhân lực là nền tảng để phát triển, Công ty Đất Đồng Vàng chú
                 trọng đầu tư vào nguồn nhân lực, có chính sách tuyển dụng, đào
                 tạo và đãi ngộ đối với công nhân viên có trình độ và kinh
                 nghiệm, sẵn sàng thu nhận các chuyên gia có nhiều kinh nghiệm,

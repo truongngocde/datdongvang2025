@@ -65,7 +65,7 @@ const IntroduceSection = () => {
                 Đội ngủ nhân viên không ngừng trưởng thành, nhiều kinh nghiệm,
                 bản lĩnh để đáp ứng mọi yêu cầu thử thách của các khách hàng khó
                 tính nhất. <br />
-                – Công Ty Đại Dương luôn chú trọng vào việc phát triển nguồn
+                – Công Ty Đất Đồng Vàng luôn chú trọng vào việc phát triển nguồn
                 nhân lực, tạo môi trường làm việc thân thiện, chia sẻ và tôn
                 trọng giá trị bản thân. Mỗi bản thân đều được phát huy đầy đủ
                 những năng lực sẵn có của mình, phát triển thêm chuyên môn qua
@@ -73,7 +73,7 @@ const IntroduceSection = () => {
                 ban giám đốc. Nhân viên được đóng góp và được chia sẽ lợi ích từ
                 sự phát triển của doanh nghiệp. <br />– Nâng cao đời sống văn
                 hóa, tinh thần, cải thiện thu nhập cho người lao động luôn được
-                Công Ty Đại Dương xem là vấn đề then chốt để phát triển nguồn
+                Công Ty Đất Đồng Vàng xem là vấn đề then chốt để phát triển nguồn
                 nhân lực của công ty.
               </span>
             </motion.p>
